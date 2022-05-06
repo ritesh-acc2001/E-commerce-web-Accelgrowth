@@ -1,0 +1,70 @@
+.content {
+	background-color: #f1f1f1;
+}
+.container {
+	padding: 70px;
+	font-size: x-small;
+}
+.scroll .row {
+	background-color: white;
+}
+.ogkecu {
+	background-color: white;
+	padding: 5px;
+}
+.sc1 {
+	padding: 10px;
+}
+.sl1 {
+	background-color: white;
+	padding: 10px;
+}
+.sl {
+	padding: 10px;
+	background-color: white;
+}
+._1D76KH {
+	color: #878787;
+}
+.issue {
+	background-color: white;
+	color: #878787;
+}
+.container2 {
+	overflow: auto;
+	width: 200px;
+	height: 400px;
+}
+/* .size {
+	padding: 20px;
+} */
+.data2 {
+	background-color: white;
+	padding: 10px;
+}
+.h {
+	background-color: white;
+	font-size: 15px;
+}
+.name {
+	background-color: white;
+}
+.last {
+	font-size: xx-small;
+}
+.last p {
+	padding: 20px;
+	background-color: white;
+}
+.ViewMore {
+	align-items: center;
+	text-align: center;
+	color: blue;
+	background-color: white;
+}
+.img {
+	height: 1px;
+	width: 1px;
+	size: 1px;
+	size-adjust: 1px;
+}

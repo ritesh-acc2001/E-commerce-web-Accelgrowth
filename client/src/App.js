@@ -1,6 +1,7 @@
 import './App.css';
 import MyCart from './component/MyCart/MyCart';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import ContactUs from './component/ContactUS/ContactUs';
 
 function App() {
   return (
@@ -12,7 +13,8 @@ function App() {
           <Route path="mycart" element={< MyCart/>} />
       </Routes>
     </BrowserRouter>
-        {/* <MyCart/> */}
+      {/* <MyCart/> */}
+      <ContactUs/>
 
     </div>
   );
